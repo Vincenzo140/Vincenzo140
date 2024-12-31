@@ -6,16 +6,15 @@
   A passionate backend developer from Brazil who also engages in data science.
 </h3>
 
-<!-- Hacker-style terminal simulation -->
 <div style="background-color: #0f0f0f; color: #39ff14; padding: 20px; border-radius: 10px; font-family: 'Source Code Pro', monospace; overflow-x: auto; margin: 20px auto; max-width: 800px; box-shadow: 0 5px 10px rgba(0,0,0,0.3); border: 2px solid #00FF00;"> 
   <pre>
 <span class="prompt">user@localhost:~</span><span class="command"> whoami</span>
 <span class="output">Vincenzo Amendola - Backend Developer & Data Scientist</span>
 
 <span class="prompt">user@localhost:~</span><span class="command"> contact</span>
-<span class="output-highlight">GitHub:</span><span class="output"> github.com/Vincenzo140</span>
+<span class="output-highlight">GitHub:</span><span class="output"><a href="https://github.com/Vincenzo140" target="_blank" style="color: #39ff14;">github.com/Vincenzo140</a></span>
 <span class="output-highlight">Email:</span><span class="output"> vincenzo.amendola141@gmail.com</span>
-<span class="output-highlight">LinkedIn:</span><span class="output"> linkedin.com/in/vincenzo-amendola-9aab38264</span>
+<span class="output-highlight">LinkedIn:</span><span class="output"><a href="https://www.linkedin.com/in/vincenzo-amendola-9aab38264/" target="_blank" style="color: #39ff14;">linkedin.com/in/vincenzo-amendola-9aab38264</a></span>
   </pre>
 </div>
 
