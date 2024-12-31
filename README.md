@@ -15,7 +15,7 @@
 <span class="prompt">user@localhost:~</span><span class="command"> contact</span>
 <span class="output-highlight">GitHub:</span><span class="output"> github.com/Vincenzo140</span>
 <span class="output-highlight">Email:</span><span class="output"> vincenzo.amendola141@gmail.com</span>
-<span class="output-highlight">LinkedIn:</span><span class="output"> linkedin.com/in/vincenzo%20amendola</span>
+<span class="output-highlight">LinkedIn:</span><span class="output"> linkedin.com/in/vincenzo-amendola-9aab38264</span>
   </pre>
 </div>
 
