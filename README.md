@@ -6,24 +6,24 @@
   A passionate backend developer from Brazil who also engages in data science.
 </h3>
 
-<!-- Fish-like terminal simulation -->
-<div style="background: linear-gradient(to bottom, #303030, #404040); color: #eee; padding: 20px; border-radius: 10px; font-family: 'Source Code Pro', monospace; overflow-x: auto; margin: 20px auto; max-width: 800px; box-shadow: 0 5px 10px rgba(0,0,0,0.3); border: 2px solid #555;"> 
+<!-- Hacker-style terminal simulation -->
+<div style="background-color: #0f0f0f; color: #39ff14; padding: 20px; border-radius: 10px; font-family: 'Source Code Pro', monospace; overflow-x: auto; margin: 20px auto; max-width: 800px; box-shadow: 0 5px 10px rgba(0,0,0,0.3); border: 2px solid #00FF00;"> 
   <pre>
-<span class="prompt">⋊> ~ </span><span class="command">whoami</span>
+<span class="prompt">user@localhost:~</span><span class="command"> whoami</span>
 <span class="output">Vincenzo Amendola - Backend Developer & Data Scientist</span>
 
-<span class="prompt">⋊> ~ </span><span class="command">contact</span>
+<span class="prompt">user@localhost:~</span><span class="command"> contact</span>
 <span class="output-highlight">GitHub:</span><span class="output"> github.com/Vincenzo140</span>
 <span class="output-highlight">Email:</span><span class="output"> vincenzo.amendola141@gmail.com</span>
 <span class="output-highlight">LinkedIn:</span><span class="output"> linkedin.com/in/vincenzo%20amendola</span>
   </pre>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; ">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <img src="https://profile-counter.glitch.me/?username=Vincenzo140&style=flat&color=39ff14&label=Profile+Views&icon=fa-eye" alt="Profile Views"/>
 </div>
 
-<!-- Skills (more visually prominent) -->
+<!-- Skills (with green and dark theme) -->
 <h2 align="center" style="color: #39ff14; margin-top: 30px; font-family: 'Source Code Pro', monospace;">Skills & Tools</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; background: linear-gradient(to bottom, #222, #333); padding: 20px; border-radius: 10px; margin: 10px auto; max-width: 900px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;"/>
@@ -48,8 +48,8 @@
 </div>
 
 <style>
-.prompt { color: #39ff14; }
-.command { color: #ADD8E6; } /* Light blue for commands */
-.output { color: #fff; }
-.output-highlight { color: #00FFFF; } /* Cyan for highlights */
+  .prompt { color: #39ff14; font-weight: bold; }
+  .command { color: #ADD8E6; } /* Light blue for commands */
+  .output { color: #fff; }
+  .output-highlight { color: #00FFFF; } /* Cyan for highlights */
 </style>
