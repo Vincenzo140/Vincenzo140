@@ -1,88 +1,72 @@
-<!-- Dynamic Blue Animation -->
-<div align="center">
-  <img src="https://i.gifer.com/YCZH.gif" alt="Blue Waves Animation" width="100%" style="border-radius: 10px;"/>
-</div>
-
-<h1 align="center" style="font-size: 3.5rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6C63FF;">
+<h1 align="center" style="font-size: 3.5rem; font-family: 'Source Code Pro', monospace; color: #20C20E;">
   Hi 👋, I'm Vincenzo Amendola
 </h1>
-<h3 align="center" style="font-style: italic; color: #555;">
+
+<h3 align="center" style="font-style: italic; color: #888;">
   A passionate backend developer from Brazil who also engages in data science.
 </h3>
 
+<!-- Mock Terminal -->
+<div style="background-color: #222; color: #eee; padding: 20px; border-radius: 10px; font-family: 'Source Code Pro', monospace; overflow: auto; margin: 20px auto; max-width: 800px;">
+  <pre>
+<span style="color: #0A84FF;">vincenzo@portfolio</span>:<span style="color: #20C20E;">~</span><span style="color: #AAA;">$</span> whoami
+<span style="color: #FF5F57;">Vincenzo Amendola</span> - Backend Developer & Data Scientist
+
+<span style="color: #0A84FF;">vincenzo@portfolio</span>:<span style="color: #20C20E;">~</span><span style="color: #AAA;">$</span> ls -l skills
+total 12
+-rw-r--r-- 1 vincenzo staff 1024 Dec 30 2024 python
+-rw-r--r-- 1 vincenzo staff 1024 Dec 30 2024 docker
+-rw-r--r-- 1 vincenzo staff 1024 Dec 30 2024 django
+<span style="color: #0A84FF;">vincenzo@portfolio</span>:<span style="color: #20C20E;">~</span><span style="color: #AAA;">$</span> cat contact.txt
+<span style="color:#50E3C2;">GitHub:</span> github.com/Vincenzo140
+<span style="color:#50E3C2;">Email:</span> vincenzo.amendola141@gmail.com
+<span style="color:#50E3C2;">LinkedIn:</span> linkedin.com/in/vincenzo%20amendola
+<span style="color: #0A84FF;">vincenzo@portfolio</span>:<span style="color: #20C20E;">~</span><span style="color: #AAA;">$</span> <span style="color: #FFC58F;"># Type 'help' for more commands...</span>
+  </pre>
+</div>
+
+<details>
+  <summary style="font-family: 'Source Code Pro', monospace; color:#20C20E; cursor: pointer; margin: 20px 0; font-size: 1.2rem;">
+    <span style="color: #AAA;">></span> Skills & Tools 
+  </summary>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vincenzo140&color=blueviolet" alt="Profile views counter"/>
+    <!-- Skill and Tool Icons -->
+     <img src="..." alt="Skill/Tool Name" width="50" height="50" style="margin: 10px;"/>
+     <!-- ... Add all your skill/tool icons here ... -->
 </p>
+</details>
 
----
-
-<p align="center" style="font-size: 1.2rem; font-family: 'Courier New', Courier, monospace; color: #333;">
-  ⏳ <strong>Year Progress</strong> { <span style="color: #6C63FF;">█████████████████████████████▁</span> } <strong>99.74%</strong>  
-  <br>As on ⏰ <strong>30-Dec-2024</strong>
-</p>
-
----
-
-- 👨‍💻 **Explore my projects:** [**github.com/Vincenzo140**](https://github.com/Vincenzo140)  
-- 📫 **Reach me at:** [**vincenzo.amendola141@gmail.com**](mailto:vincenzo.amendola141@gmail.com)
-
----
-
-<h2 align="center" style="color: #6C63FF;">🔗 Connect with me:</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/vincenzo%20amendola" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h2 align="center" style="color: #6C63FF;">💻 Main Skills:</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50" style="margin: 10px;"/> 
-</p>
-
----
-
-<h2 align="center" style="color: #6C63FF;">🛠️ Tools:</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;"/> 
-</p>
-
----
-
-<h2 align="center" style="color: #6C63FF;">📊 GitHub Stats:</h2>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<details>
+  <summary style="font-family: 'Source Code Pro', monospace; color:#20C20E; cursor: pointer; margin: 20px 0; font-size: 1.2rem;">
+    <span style="color: #AAA;">></span> GitHub Stats 
+  </summary>
+  <div align="center">
+    <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=Vincenzo140&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzo140&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo140&theme=radical" alt="GitHub Streak" width="100%"/>
-  </a>
-</div>
+  </div>
+</details>
 
-<!-- Dynamic Blue Animation -->
-<div align="center">
-  <img src="https://i.gifer.com/YCZH.gif" alt="Blue Waves Animation" width="100%" style="border-radius: 10px;"/>
+
+<!-- Year progress in a terminal style with JavaScript for dynamic calculation -->
+<div style="background-color: #222; color: #eee; padding: 10px; border-radius: 5px; font-family: 'Source Code Pro', monospace; margin-top: 20px;">
+  <pre id="year-progress">
+<span style="color: #0A84FF;">vincenzo@portfolio</span>:<span style="color: #20C20E;">~</span><span style="color: #AAA;">$</span> year_progress
+<span style="color: #50E3C2;">Calculating...</span> </pre>
+<script>
+  const now = new Date();
+  const start = new Date(now.getFullYear(), 0, 0);
+  const diff = now - start;
+  const oneDay = 1000 * 60 * 60 * 24;
+  const dayOfYear = Math.floor(diff / oneDay);
+  const totalDays = (new Date(now.getFullYear(), 11, 31) - start) / oneDay +1 // Account for leap years
+
+  const percentage = Math.round((dayOfYear / totalDays) * 100);
+
+  document.getElementById("year-progress").innerHTML = `
+<span style="color: #0A84FF;">vincenzo@portfolio</span>:<span style="color: #20C20E;">~</span><span style="color: #AAA;">$</span> year_progress
+<span style="color: #50E3C2;">[${"#".repeat(Math.round(percentage/4))}${" ".repeat(25-Math.round(percentage/4))}] ${percentage}% as of ${now.toLocaleDateString()}</span>`;
+</script>
+
 </div>
