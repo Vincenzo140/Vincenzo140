@@ -19,8 +19,9 @@
   </pre>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-  <img src="https://profile-counter.glitch.me/?username=Vincenzo140&style=flat&color=39ff14&label=Profile+Views&icon=fa-eye" alt="Profile Views"/>
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Vincenzo140/count.svg" alt="Profile Views"/>
 </div>
 
 <!-- Skills (with green and dark theme) -->
@@ -46,10 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzo140&layout=compact&theme=radical" alt="Top Languages" width="48%" style="margin: 10px auto;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo140&theme=radical" alt="GitHub Streak" width="95%" style="margin: 10px auto;"/>
 </div>
-
-<style>
-  .prompt { color: #39ff14; font-weight: bold; }
-  .command { color: #ADD8E6; } /* Light blue for commands */
-  .output { color: #fff; }
-  .output-highlight { color: #00FFFF; } /* Cyan for highlights */
-</style>
