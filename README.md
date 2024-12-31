@@ -16,24 +16,28 @@
 <span class="output-highlight">GitHub:</span><span class="output"> github.com/Vincenzo140</span>
 <span class="output-highlight">Email:</span><span class="output"> vincenzo.amendola141@gmail.com</span>
 <span class="output-highlight">LinkedIn:</span><span class="output"> linkedin.com/in/vincenzo%20amendola</span>
-
   </pre>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; ">
-<img src="https://profile-counter.glitch.me/?username=Vincenzo140&style=flat&color=39ff14&label=Profile+Views&icon=fa-eye" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/?username=Vincenzo140&style=flat&color=39ff14&label=Profile+Views&icon=fa-eye" alt="Profile Views"/>
 </div>
-
 
 <!-- Skills (more visually prominent) -->
 <h2 align="center" style="color: #39ff14; margin-top: 30px; font-family: 'Source Code Pro', monospace;">Skills & Tools</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; background: linear-gradient(to bottom, #222, #333); padding: 20px; border-radius: 10px; margin: 10px auto; max-width: 900px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <!-- Replace these with your actual skill icons -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" style="margin: 10px;"/>
-  <!-- ... add more icons -->
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="60" height="60" style="margin: 10px;"/>
 </div>
-
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color: #39ff14; margin-top: 30px; font-family: 'Source Code Pro', monospace;">GitHub Stats</h2>
@@ -42,9 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzo140&layout=compact&theme=radical" alt="Top Languages" width="48%" style="margin: 10px auto;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo140&theme=radical" alt="GitHub Streak" width="95%" style="margin: 10px auto;"/>
 </div>
-
-
-
 
 <style>
 .prompt { color: #39ff14; }
